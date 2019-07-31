@@ -10,8 +10,7 @@ module Pathogen
       Statistics,
       ProgressMeter,
       LinearAlgebra,
-      OnlineStats,
-      StaticArrays
+      OnlineStats
 
   import RecipesBase.plot
   import ProgressMeter.next!
